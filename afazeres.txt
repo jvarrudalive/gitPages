@@ -1,0 +1,24 @@
+Colocar as opções de troca de img ✔
+Configura o JavaScript 😤
+Colocara a construção da galeria em formato de card com algumas informações do produto 🤔
+Cesenhar algo maneiro no paint 3d como se fosse o botão de troca de img 😬
+Por final colocar o responsivo CLARO SE TUDO FUNCIONA...😩 
+
+
+em produtos colocar uma animação em hover para que seja espandindo e dando uma descrição daquele modelo
+em especifico, em formato de 2 colunas com o mesmo tamanho so que em lados extremos que possa causar 100% 
+no centro do espaço (Não sera facil a contrução mas tudo é contruido e nada é impossivel)
+NÃO ESQUECER DE ORGANIZAR O CODIGO JS DE ACORDO COM A CONSTRUÇÃO DO SITE 😤😡😩
+COLOCAR SCROLL DINAMICO NO SITE E BARRA DE NAVEGAÇÃO FIXA E OS ELEMENTOS SUMINDO CONFORME CHEGAM NELA
+
+              ⚠ATENÇÃO⚠
+
+  QUANDO FOR ESTRUTURA E CONSTRUIR A GALALERIA MONTA EM 
+  2 FORMATOS, NA ABA DESKTOP E NA ABA RESPONSIVA
+
+
+        Barbara contato e cnpj 
+        contato:(24) 99222 3965
+        cnpj: 44.656.782/0001-97
+
+          https://mysexgames.com/games/1852/never_saint
